@@ -55,7 +55,7 @@ imdb-lstm-sentiment/
 ## Setup Instructions
 ```bash
 pip install -r requirements.txt
-````
+```
 
 Run the notebook from top to bottom:
 
