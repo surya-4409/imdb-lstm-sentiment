@@ -38,7 +38,14 @@ The custom `torch.nn.Module` subclass consists of the following layers:
 * **Dropout (0.5 rate):** Applied to the LSTM output to heavily regularize the network and mitigate overfitting.
 * **Fully Connected Layer:** A final linear layer with a Sigmoid activation function to output binary classification probabilities.
 
+<<<<<<< HEAD
 ---
+=======
+## Setup Instructions
+```bash
+pip install -r requirements.txt
+```
+>>>>>>> 8d01fc4a5c58dd4a64c55a902933475a3e192e7e
 
 ## ⚙️ Training & Hyperparameters
 The model was optimized through iterative experimentation and careful monitoring:
